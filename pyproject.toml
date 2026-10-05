@@ -1,0 +1,6 @@
+[project]
+name = "enterprise-ai-platform"
+version = "0.1.0"
+description = "A business intelligence and AI platform built with Python."
+requires-python = ">=3.14"
+*.egg-info/

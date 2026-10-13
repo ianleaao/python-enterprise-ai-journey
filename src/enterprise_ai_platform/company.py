@@ -1,6 +1,7 @@
 class Company:
 
-    def __init__(self, name, industry, revenue, employees):
+    def __init__(self, company_id, name, industry, revenue, employees):
+        self.company_id = company_id
         self.name = name
         self.industry = industry
         self.revenue = revenue
